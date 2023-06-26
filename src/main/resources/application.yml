@@ -1,0 +1,16 @@
+mj:
+  discord:
+    guild-id: 1092773126728843366
+    channel-id: 1098545390246170684
+    user-token: MTA5MjMwMzY0NzM3Njk0MTA5OQ.GR-Q6D.kqFqUZli0hykN0DHFlv-sXOgQWwJHGM8tYgWOY
+    session-id: 5b088d49d0e75461567bad0c3189a0a5
+    user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+    user-wss: true
+  task-store:
+    type: in_memory
+    timeout: 30d
+  translate-way: null
+  queue:
+    timeout-minutes: 5
+    core-size: 3
+    queue-size: 10
