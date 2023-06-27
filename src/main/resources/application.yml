@@ -15,5 +15,5 @@ mj:
     core-size: 3
     queue-size: 10
   proxy:
-    host: 114.115.210.178
+    host: 127.0.0.1
     port: 10809
