@@ -16,4 +16,4 @@ mj:
     queue-size: 10
   proxy:
     host: 127.0.0.1
-    port: 21882
+    port: 10809
