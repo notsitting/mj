@@ -69,7 +69,7 @@ public class ProxyProperties {
 		/**
 		 * 你的频道id.
 		 */
-		private String sessionId = "9c4055428e13bcbf2248a6b36084c5f3";
+		private String sessionId = "5b088d49d0e75461567bad0c3189a0a5";
 		/**
 		 * 调用discord接口、连接wss时的user-agent.
 		 */
